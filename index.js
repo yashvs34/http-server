@@ -68,10 +68,11 @@ function isValidInput (req, res, next)
 // DEFINITION OF DATABASE SCHEMA AND MODEL
 async function connecting ()
 { 
-  await mongoose.connect(config.mongodbURL, { useNewUrlParser: true, useUnifiedTopology: true });
+  await mongoose.connect(config.mongodbURL);
 }
 
 connecting();
+
 const userDB = new mongoose.Schema({
   userName : String,
   password : String,
