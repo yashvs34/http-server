@@ -4,14 +4,14 @@
 HTTP-server written in Node.js using Express.js framework doing authorisation and authentication using Zod library with connection to a MongoDB
 
 # How to run locally
-1. Clone the repo and install Node in same directory to install and use Node locally using command :- 
+1. Clone the repo and install Node in same directory to install and use Node locally using command :-   
 ```npm install```  
 
 2. Install these libraries - Express, Zod, Mongoose, JWT token using command :- 
-```npm install express```
-```npm install zod```
-```npm install mongoose```
-```npm install jsonwebtoken```  
+```npm install express```  
+```npm install zod```  
+```npm install mongoose```  
+```npm install jsonwebtoken```    
 
 3. You can use both Developer Tools present in your browser and POSTMAN app for testing locally  
 
