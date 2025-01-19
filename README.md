@@ -5,15 +5,15 @@ HTTP-server written in Node.js using Express.js framework doing authorisation an
 
 # How to run locally
 1. Clone the repo and install Node modules in same directory to install and use Node locally using command :- 
-npm install  
+```npm install```  
 
 2. Install these libraries - Express, Zod, Mongoose, JWT token using command :- 
-npm install express
-npm install zod
-npm install mongoose
-npm install jsonwebtoken  
+```npm install express```
+```npm install zod```
+```npm install mongoose```
+```npm install jsonwebtoken```  
 
-3. You can use both Developer Tools present in your borwser and POSTMAN app for testing locally  
+3. You can use both Developer Tools present in your browser and POSTMAN app for testing locally  
 
 4. We will be looking through the process of using POSTMAN  
 
