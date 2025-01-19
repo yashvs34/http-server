@@ -7,7 +7,7 @@ HTTP-server written in Node.js using Express.js framework doing authorisation an
 1. Clone the repo and install Node in same directory to install and use Node locally using command :-   
 ```npm install```  
 
-2. Install these libraries - Express, Zod, Mongoose, JWT token using command :- 
+2. Install these libraries - Express, Zod, Mongoose, JWT token using command :-  
 ```npm install express```  
 ```npm install zod```  
 ```npm install mongoose```  
